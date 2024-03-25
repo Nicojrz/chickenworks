@@ -12,6 +12,7 @@
     <body>
         <h1>Bienvenido a ChickenWorks!</h1>
         <p>Redacta a la perfección esos diagramas y documentos que tanto odias hacer.</p>
+        <a href="">Redacta ya</a>
         <a href="">Registrarse</a>
         <a href="">Inicia sesi&oacute;n</a>
         <a href="">Código fuente</a>
